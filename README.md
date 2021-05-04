@@ -6,10 +6,10 @@ The goal of this project was, to investigate, how stress and especially how frus
 
     python3 main.py <NAME> <PARAMETER>
     
-Here, <NAME> is the actual name of the created measurement files. The <PARAMETER> is optional. This parameter indicates whether the manipulation mode for "frustrating - effects" is enabled with E or not. 
+Here, `<NAME>` is the actual name of the created measurement files. The `<PARAMETER>` is optional. This parameter indicates whether the manipulation mode for "frustrating - effects" is enabled with E or not. 
     
 ### default setting: 
-Manipulating factors (lagging and freezing) are DISABLED. There is no need to define <PARAMETER> by not using the manipulation mode.
+Manipulating factors (lagging and freezing) are DISABLED. There is no need to define `<PARAMETER>` by not using the manipulation mode.
 ### to enable the manipulation type 
 
     python3 main.py <NAME> E
