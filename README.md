@@ -10,12 +10,12 @@ manipulating factors (lagging and freezing) are DISABLED
 
     python3 main.py <NAME> E
 
-## Background music: 
-“Foggy Forest”, from PlayOnLoop.com \
+### Background music: 
+“Foggy Forest”, from https://PlayOnLoop.com \
 Licensed under Creative Commons by Attribution 4.0 
 
-## Sound Effects: 
-“Large Fireball”, from soundbible.com \
+### Sound Effects: 
+“Large Fireball”, from https://soundbible.com \
 Licensed under Creative Commons by Attribution 3.0 
 
-“Explosion”, from ... 
+“Explosion”, from https://github.com/attreyabhatt/Space-Invaders-Pygame \
