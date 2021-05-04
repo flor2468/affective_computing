@@ -18,4 +18,4 @@ Licensed under Creative Commons by Attribution 4.0
 “Large Fireball”, from https://soundbible.com \
 Licensed under Creative Commons by Attribution 3.0 
 
-“Explosion”, from https://github.com/attreyabhatt/Space-Invaders-Pygame \
+“Explosion”, from https://github.com/attreyabhatt/Space-Invaders-Pygame 
